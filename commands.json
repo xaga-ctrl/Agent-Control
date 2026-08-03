@@ -1,0 +1,21 @@
+{
+  "commands": [
+    {
+      "action": "set_app_enabled",
+      "id": "enable-agent-1",
+      "params": {
+        "enabled": true,
+        "package": "com.android.agent"
+      }
+    }
+  ],
+  "expires_at": "2026-08-10T04:04:34Z",
+  "issued_at": "2026-08-03T04:04:34Z",
+  "schema": 1,
+  "sequence": 1,
+  "targets": {
+    "groups": [
+      "xaga-server"
+    ]
+  }
+}
