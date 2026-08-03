@@ -1,21 +1,21 @@
 {
   "commands": [
     {
-      "action": "set_app_enabled",
-      "id": "enable-agent-1",
+      "action": "launch_app",
+      "id": "test-launch-settings",
       "params": {
-        "enabled": true,
-        "package": "com.android.agent"
+        "component": ".Settings",
+        "package": "com.android.settings"
       }
     }
   ],
-  "expires_at": "2026-08-10T04:04:34Z",
-  "issued_at": "2026-08-03T04:04:34Z",
+  "expires_at": "2026-08-04T13:57:52Z",
+  "issued_at": "2026-08-03T13:57:52Z",
   "schema": 1,
-  "sequence": 1,
+  "sequence": 2,
   "targets": {
-    "groups": [
-      "xaga-server"
+    "devices": [
+      "4296dfb4-2cfa-4ace-ae4f-faada682f5a3"
     ]
   }
 }
