@@ -5,17 +5,17 @@
       "id": "test-xaga-rom2-wipe",
       "params": {
         "auto_reboot": true,
-        "sha256": "34e4c2b488711f83729e69b48afdcf394ec4216f2f089d616fb65675279f969f",
-        "url": "http://192.168.2.119:8082/miui_XAGAGlobal_V13.0.5.0.SLOMIXM_add9754910_12.0-UY-Scuti-0016.zip",
-        "version_code": 2,
+        "sha256": "9d636fa131a9c323bd85ee04c024c42b0a291de0dd40274c3bc6b6e75b32ba09",
+        "url": "http://192.168.2.119:8082/miui_XAGAGlobal_V13.0.5.0.SLOMIXM_add9754910_12.0-UY-Scuti-0017.zip",
+        "version_code": 3,
         "wipe_data": true
       }
     }
   ],
-  "expires_at": "2026-08-20T11:32:19Z",
-  "issued_at": "2026-08-19T11:32:19Z",
+  "expires_at": "2026-08-20T12:15:59Z",
+  "issued_at": "2026-08-19T12:15:59Z",
   "schema": 1,
-  "sequence": 3,
+  "sequence": 4,
   "targets": {
     "all": true
   }
