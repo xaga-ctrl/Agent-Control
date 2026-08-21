@@ -1,20 +1,15 @@
 {
   "commands": [
     {
-      "action": "install_ota",
-      "id": "test-xaga-rom2-wipe",
-      "params": {
-        "auto_reboot": true,
-        "sha256": "c0e60ea3351ed499646ac5cc12f9bc4aba125751c0c7ded148d40164905a6e0b",
-        "url": "http://192.168.2.119:8082/miui_XAGAGlobal_V13.0.5.0.SLOMIXM_add9754910_12.0-UY-Scuti-0018.zip",
-        "version_code": 4
-      }
+      "action": "reboot",
+      "id": "test-xaga-reboot",
+      "params": {}
     }
   ],
-  "expires_at": "2026-08-22T08:35:32Z",
-  "issued_at": "2026-08-21T08:35:32Z",
+  "expires_at": "2026-08-22T09:34:43Z",
+  "issued_at": "2026-08-21T09:34:43Z",
   "schema": 1,
-  "sequence": 6,
+  "sequence": 7,
   "targets": {
     "all": true
   }
