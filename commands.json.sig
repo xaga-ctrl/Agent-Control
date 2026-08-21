@@ -1,7 +1,7 @@
 {
   "algorithm": "SHA256withECDSA",
-  "content_sha256": "c50453de29f8167848f368f914bf4d1144c39e556317dd309c3a7fa2539dd854",
+  "content_sha256": "bd6b2aa5437add0801fa83be31bb9df3e9cc0ba79960d7ddc2a0630b3b40349a",
   "key_id": "8bfc3ebf8ce85297",
   "schema": 1,
-  "signature": "MEUCIQCj1rm2bhdUA0oAsOsz/elRou+v5Zu6p+IFl7Wzim/tiwIgd3wSQh6qtPxNLETV7GSPMmITJkjeOBE3ieJjMy9ZRmA="
+  "signature": "MEUCIQDfcrHSMJalE5lGsLRHdX7ZxurSVkoXfVt7LNpo8c6HbAIgWGs6WeXYzd67SeEQLQTMpIn2011mlL+K3ObOccRTDh8="
 }
